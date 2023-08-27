@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! I'm Rajpal Nishad, a passionate second
 
 To view my portfolio website locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/YourUsername/portfolio.git`
+1. Clone this repository: `https://github.com/FoXDev-404/Resume-CodeVerseX.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
