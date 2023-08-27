@@ -28,4 +28,4 @@ Feel free to explore the different sections of my portfolio to learn more about 
 
 ## Contributing
 
-I appreciate contributions that can enhance my portfolio website. If you have suggestions or improvements, follow these steps:
+I appreciate contributions that can enhance my portfolio website. If you have suggestions or improvements.
